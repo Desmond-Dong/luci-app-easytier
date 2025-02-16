@@ -49,7 +49,7 @@ jobs:
           - mipsel_mips32
           - x86_64
         sdk:
-          - openwrt-23.05
+          - openwrt-24.10
           - SNAPSHOT
 
     steps:
