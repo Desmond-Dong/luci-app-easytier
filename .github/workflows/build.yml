@@ -53,7 +53,7 @@ jobs:
           - mipsel_mips32
           - x86_64
         sdk:
-          - openwrt-24.10.2
+          - openwrt-24.10
 
 
     steps:
