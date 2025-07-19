@@ -53,8 +53,8 @@ jobs:
           - mipsel_mips32
           - x86_64
         sdk:
-          - openwrt-24.10
-          - SNAPSHOT
+          - openwrt-24.10.2
+
 
     steps:
       - uses: actions/checkout@v4
