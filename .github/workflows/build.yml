@@ -54,8 +54,7 @@ jobs:
           - x86_64
           
         sdk:
-          - 24.10
-          - SNAPSHOT
+          - 24.10 
 
     steps:
       - uses: actions/checkout@v4
